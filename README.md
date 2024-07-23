@@ -3,7 +3,7 @@
 
 The significance of low-code applications in the health sector is rapidly increasing, driven by the need for efficient, scalable, and cost-effective solutions. As of 2024, the latest data from Gartner indicates that the global market for low-code development technologies has experienced substantial growth, with the market size in 2023 exceeding expectations of reaching $26.9 billion. By 2025, low-code development is expected to account for more than 70% of all application development activity, a particularly relevant trend to the health sector, where innovative solutions are needed to address complex health challenges.
 
-## What are Low-Code Applications?
+## What are Low-Code Applications
 
 Low-code platforms allow for the rapid development of applications with minimal hand-coding, utilizing visual interfaces, drag-and-drop features, and pre-built components. These platforms democratize application development by enabling non-developers or citizen developers to create functional applications, thus speeding up the development process and reducing costs. Low-code platforms can be applied across various industries, including healthcare, to address specific needs and improve outcomes.
 
