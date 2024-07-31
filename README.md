@@ -58,10 +58,10 @@ With my experience in the Microsoft Power Platform, particularly Power Apps and 
 
 - **Supply Chain Management**: The Power App allows for the development of an application to manage inventory levels of vaccine stock, and track vaccine distribution at national and sub-national levels.
 - **Intake Process**: The platform can also be used to manage business requirements from various departments within a healthcare organization, such as health services and procurement. It facilitates the submission, tracking, and prioritization of requests, ensuring that the needs of different departments are captured and addressed efficiently. By streamlining this process, the platform helps to improve communication, reduce bottlenecks, and ensure that resources are allocated effectively to enhance patient care and operational efficiency.
-- **Application Development**: Power Apps allows for the creation of intuitive applications tailored to specific healthcare needs, such as patient management systems or clinical decision support tools.
+- **Application Development**: Power Apps allows for creating intuitive applications tailored to specific healthcare needs, such as patient management systems or clinical decision support tools.
 - **Workflow Automation**: Power Automate automates repetitive tasks and integrates data across systems, enhancing operational efficiency in areas like appointment scheduling, patient referrals, and inventory management.
 
-## Some of the most successful low-code platforms currently being used in the healthcare sector?
+## Some of the most successful low-code platforms currently used in the healthcare sector
 
 Several low-code platforms have been successfully adopted in the healthcare sector. These platforms are known for their ability to streamline application development, enhance data management, and improve operational efficiency. Some of the most successful low-code platforms in healthcare include:
 
